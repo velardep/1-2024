@@ -7,7 +7,12 @@ Bienvenido a mi portafolio de proyectos. Soy un estudiante de Ingeniería de Sis
 Soy apasionado por la tecnología y el desarrollo de soluciones innovadoras. Tengo experiencia en varios lenguajes de programación y herramientas, que aplico en proyectos personales y académicos.
 
 ## Proyectos
-### [Sistema de Gestión para un Restaurante]
+### [Sistema de Gestión para un Restaurante] 
+Este proyecto incluye código para la gestion de clientes, reservas y menus de un restaurante ficticio.
+
+## Archivos grandes
+Debido al tamaño del proyecto, algunos archivos se almacenan externamente: (https://drive.google.com/file/d/1cExXVAqqOOOcn813c34zGalhkfGbHeEd/view?usp=drive_link)
+Dentro del drive se encuentran las carpetas con todos los codigos y un backup de la base de datos utilizada con Postgres
 
 ## Contacto
 - **Email**: velardep44@gmail.com 
